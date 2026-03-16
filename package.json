@@ -23,7 +23,11 @@
     "validation",
     "environment-variables"
   ],
-  "author": "",
+  "author": "Cem AÇAR",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ceykiii/env-inspector.git"
+  },
   "license": "MIT",
   "dependencies": {}
 }
