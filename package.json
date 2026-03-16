@@ -2,13 +2,19 @@
   "name": "env-inspector",
   "version": "1.0.0",
   "description": "Analyze, validate, and secure your .env files",
-  "main": "src/index.js",
+  "main": "bin/cli.js",
   "bin": {
     "env-inspector": "./bin/cli.js"
   },
   "scripts": {
-    "test": "node bin/cli.js"
+    "test": "node bin/cli.js --help"
   },
+  "files": [
+    "bin/",
+    "src/",
+    "README.md",
+    "LICENSE"
+  ],
   "keywords": [
     "env",
     "dotenv",
