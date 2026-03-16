@@ -3,6 +3,7 @@
 > Analyze, validate, and secure your `.env` files.
 
 [![npm version](https://img.shields.io/npm/v/env-inspector.svg)](https://www.npmjs.com/package/env-inspector)
+[![GitHub](https://img.shields.io/github/license/ceykiii/env-inspector)](https://github.com/ceykiii/env-inspector)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Why?
